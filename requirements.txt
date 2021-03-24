@@ -40,7 +40,7 @@ pytz==2017.3
 PyYAML==3.12
 ratelim==0.1.6
 requests==2.18.4
-rsa==3.4.2
+rsa==4.1
 s3transfer==0.1.12
 six==1.11.0
 SQLAlchemy==1.2.1
